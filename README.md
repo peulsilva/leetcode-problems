@@ -10,3 +10,4 @@ My solution to some of leetcode problems
 |[Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
 |[Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
 |[Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
+|[Palindromic substrings](# https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
