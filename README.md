@@ -16,3 +16,4 @@ My solution to some of leetcode problems
 |[Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
 |[Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
 |[Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
+|[Last stone weight](https://leetcode.com/problems/last-stone-weight) | O(n log n) | O(n) |
