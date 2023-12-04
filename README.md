@@ -19,3 +19,4 @@ My solution to some of leetcode problems
 |[Last stone weight](https://leetcode.com/problems/last-stone-weight) | O(n log n) | O(n) |
 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | O(n) | O(1) |
 |[Two sum](https://leetcode.com/problems/two-sum) | O(n) | O(1) |
+|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | O(n^2) | O(1) |
