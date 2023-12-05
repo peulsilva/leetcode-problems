@@ -21,3 +21,4 @@ My solution to some of leetcode problems
 |[Two sum](https://leetcode.com/problems/two-sum) | O(n) | O(1) |
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | O(n^2) | O(1) |
 |[Maximum subarray](https://leetcode.com/problems/maximum-subarray) | O(n) | O(1) |
+| [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | O(n) | O(n) |
