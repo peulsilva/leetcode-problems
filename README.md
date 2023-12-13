@@ -24,3 +24,4 @@ My solution to some of leetcode problems
 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | O(n) | O(n) |
 | [House Robber] (https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
 | [Two city scheduling] (https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
+| [Maximum product subarray] (https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
