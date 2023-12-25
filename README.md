@@ -26,3 +26,4 @@ My solution to some of leetcode problems
 | [Two city scheduling] (https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Maximum product subarray] (https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
 | [Number of islands] (https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
+| [Longuest consecutive sequence] (https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
