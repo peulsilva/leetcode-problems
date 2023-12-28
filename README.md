@@ -30,3 +30,4 @@ My solution to some of leetcode problems
 | [Gas Station](https://leetcode.com/problems/gas-station/) | O(n) | O(n) |
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
+| [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
