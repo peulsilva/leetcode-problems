@@ -22,11 +22,11 @@ My solution to some of leetcode problems
 |[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | O(n^2) | O(1) |
 |[Maximum subarray](https://leetcode.com/problems/maximum-subarray) | O(n) | O(1) |
 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | O(n) | O(n) |
-| [House Robber] (https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
-| [Two city scheduling] (https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
-| [Maximum product subarray] (https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
-| [Number of islands] (https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
-| [Longuest consecutive sequence] (https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
+| [House Robber](https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
+| [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
+| [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
+| [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
+| [Longuest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
 | [Gas Station](https://leetcode.com/problems/gas-station/) | O(n) | O(n) |
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
