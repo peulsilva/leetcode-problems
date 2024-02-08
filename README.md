@@ -32,3 +32,4 @@ My solution to some of leetcode problems
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
+| [Perfect Squares](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | O(n^2) | O(n) |
