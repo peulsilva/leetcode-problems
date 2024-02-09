@@ -33,3 +33,4 @@ My solution to some of leetcode problems
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
 | [Perfect Squares](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | O(n^2) | O(n) |
+| [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
