@@ -35,3 +35,4 @@ My solution to some of leetcode problems
 | [Perfect Squares](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | O(n^2) | O(n) |
 | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
+| [Flower planting with no adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | O(VE) | O(E) |
