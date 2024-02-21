@@ -37,3 +37,4 @@ My solution to some of leetcode problems
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
 | [Flower planting with no adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | O(VE) | O(E) |
 | [Find target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
+| [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
