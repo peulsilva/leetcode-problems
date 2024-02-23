@@ -39,3 +39,4 @@ My solution to some of leetcode problems
 | [Find target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
+| [Find peak element](https://leetcode.com/problems/find-peak-element/) | O(log n) | O(1) |
