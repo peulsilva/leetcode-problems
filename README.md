@@ -43,4 +43,4 @@ My solution to some of leetcode problems
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Two sum](https://leetcode.com/problems/two-sum) | O(n) | O(1) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
-
+| [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
