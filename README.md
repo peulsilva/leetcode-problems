@@ -29,6 +29,7 @@ My solution to some of leetcode problems
 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | O(n) | O(n) |
 | [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| O(n) | O(1)|
 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
+| [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | O(n) | O(1) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
@@ -43,4 +44,3 @@ My solution to some of leetcode problems
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Two sum](https://leetcode.com/problems/two-sum) | O(n) | O(1) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
-| [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
