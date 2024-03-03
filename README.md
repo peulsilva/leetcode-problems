@@ -6,6 +6,7 @@ My solution to some of leetcode problems
 | Problem  | Time complexity | Space complexity | 
 | - | - | - |
 | [3 sum](https://leetcode.com/problems/3sum/) | O(n^2) | O(1) |
+| [3 sum closest](https://leetcode.com/problems/3sum-closest/) | O(n^2) | O(1) |
 | [Add two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | O(n) | O(n) |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | O(n) | O(1) |
