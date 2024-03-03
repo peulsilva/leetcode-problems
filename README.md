@@ -43,5 +43,6 @@ My solution to some of leetcode problems
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
 | [Target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
-| [Two sum](https://leetcode.com/problems/two-sum) | O(n) | O(1) |
+| [Two sum](https://leetcode.com/problems/two-sum) | O(n log n) | O(1) |
+| [Valid parenthesis] (https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
