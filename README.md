@@ -25,6 +25,7 @@ My solution to some of leetcode problems
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
+| [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | O(m n) | O(m n)
 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | O(n^2) | O(1) |
 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/editorial/) | O(n^3) | O(n) |
