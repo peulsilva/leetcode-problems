@@ -31,6 +31,7 @@ My solution to some of leetcode problems
 | [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/editorial/) | O(n^3) | O(n) |
 | [Longuest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | O(n) | O(n) |
+| [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | O(n) | O(n) |
 | [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| O(n) | O(1)|
 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
