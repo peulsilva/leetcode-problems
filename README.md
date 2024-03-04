@@ -11,6 +11,7 @@ My solution to some of leetcode problems
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock with cooldown ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | O(n) | O(n) |
+| [Coin change](https://leetcode.com/problems/coin-change/) | O(k*n) | O(1) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
