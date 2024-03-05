@@ -37,6 +37,7 @@ My solution to some of leetcode problems
 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | O(n) | O(1) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
+| [Minimum path matrix](https://leetcode.com/problems/minimum-path-sum/) | O(m*n) | O(m*n) |
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
