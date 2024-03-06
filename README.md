@@ -43,6 +43,7 @@ My solution to some of leetcode problems
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
 | [Perfect Squares](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | O(n^2) | O(n) |
+| [Predict the winner](https://leetcode.com/problems/predict-the-winner/) | O(n^2) | O(n^2) |
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
 | [Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
