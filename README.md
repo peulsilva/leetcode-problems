@@ -15,6 +15,7 @@ My solution to some of leetcode problems
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
+| [Course Schedule](https://leetcode.com/problems/course-schedule/) | O(n) | O(n^2) |
 | [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Find peak element](https://leetcode.com/problems/find-peak-element/) | O(log n) | O(1) |
