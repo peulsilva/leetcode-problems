@@ -23,6 +23,7 @@ My solution to some of leetcode problems
 | [Gas Station](https://leetcode.com/problems/gas-station/) | O(n) | O(n) |
 | [House Robber](https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | - | - |
+| [Jump game](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
@@ -40,6 +41,7 @@ My solution to some of leetcode problems
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
 | [Min cost to buy tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | O(n) | O(n) |
 | [Minimum path matrix](https://leetcode.com/problems/minimum-path-sum/) | O(m*n) | O(m*n) |
+| [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | O(n) | O(1) |
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
