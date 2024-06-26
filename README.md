@@ -12,6 +12,7 @@ My solution to some of leetcode problems
 | [Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock with cooldown ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | O(n) | O(n) |
 | [Coin change](https://leetcode.com/problems/coin-change/) | O(k*n) | O(1) |
+| [Coin change 2](https://leetcode.com/problems/coin-change-ii/) | O(k*n) | O(k*n) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
@@ -24,6 +25,7 @@ My solution to some of leetcode problems
 | [House Robber](https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | - | - |
 | [Jump game](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
+| [Jump game 2](https://leetcode.com/problems/jump-game-ii/description/) | O(n²) | O(n²) |
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
