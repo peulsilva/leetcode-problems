@@ -54,6 +54,7 @@ My solution to some of leetcode problems
 | [Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
 | [Target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
+| [Triangles](https://leetcode.com/problems/triangle/description) | O(n²) | O(n²) |
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Two sum](https://leetcode.com/problems/two-sum) | O(n log n) | O(1) |
 | [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
