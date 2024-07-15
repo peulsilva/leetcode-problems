@@ -13,10 +13,12 @@ My solution to some of leetcode problems
 | [Best Time to Buy and Sell Stock with cooldown ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | O(n) | O(n) |
 | [Coin change](https://leetcode.com/problems/coin-change/) | O(k*n) | O(1) |
 | [Coin change 2](https://leetcode.com/problems/coin-change-ii/) | O(k*n) | O(k*n) |
+| [Combination sum](https://leetcode.com/problems/combination-sum/) | O(n²) | O(n) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | O(n) | O(n^2) |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | O(n) | O(n) |
 | [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Find peak element](https://leetcode.com/problems/find-peak-element/) | O(log n) | O(1) |
@@ -40,6 +42,7 @@ My solution to some of leetcode problems
 | [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) | O(n) | O(1)|
 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | O(n^2) | O(1) |
 | [Maximum subarray](https://leetcode.com/problems/maximum-subarray) | O(n) | O(1) |
+| [Merge intervals](https://leetcode.com/problems/merge-intervals/) | O(n log n) | O(n) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
 | [Min cost to buy tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | O(n) | O(n) |
 | [Minimum path matrix](https://leetcode.com/problems/minimum-path-sum/) | O(m*n) | O(m*n) |
