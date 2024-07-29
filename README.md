@@ -25,6 +25,8 @@ My solution to some of leetcode problems
 | [Flower planting with no adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | O(VE) | O(E) |
 | [Gas Station](https://leetcode.com/problems/gas-station/) | O(n) | O(n) |
 | [House Robber](https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
+| [House Robber II](https://leetcode.com/problems/house-robber-ii/)| O(n) | O(1 )|
+| [Implement rand10 using rand7](https://leetcode.com/problems/implement-rand10-using-rand7/)| O(1) | O(1 )|
 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | - | - |
 | [Jump game](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
 | [Jump game 2](https://leetcode.com/problems/jump-game-ii/description/) | O(n²) | O(n²) |
@@ -57,9 +59,11 @@ My solution to some of leetcode problems
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
 | [Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
+| [Super ugly number](https://leetcode.com/problems/super-ugly-number/) | O(n*p) | O(n + p) |
 | [Target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
 | [Triangles](https://leetcode.com/problems/triangle/description) | O(n²) | O(n²) |
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Two sum](https://leetcode.com/problems/two-sum) | O(n log n) | O(1) |
+| [Ugly number II](https://leetcode.com/problems/ugly-number-ii/) | O(n) | O(1) |
 | [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
