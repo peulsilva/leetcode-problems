@@ -16,6 +16,7 @@ My solution to some of leetcode problems
 | [Combination sum](https://leetcode.com/problems/combination-sum/) | O(n²) | O(n) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
+| [Count numbers with unique digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | O(n) | O(n) |
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | O(n) | O(n^2) |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | O(n) | O(n) |
@@ -47,8 +48,10 @@ My solution to some of leetcode problems
 | [Merge intervals](https://leetcode.com/problems/merge-intervals/) | O(n log n) | O(n) |
 | [Min cost to connect all points](https://leetcode.com/problems/min-cost-to-connect-all-points/) |O(n^2) | O(n^2) |
 | [Min cost to buy tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | O(n) | O(n) |
+| [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | O(n*log n) | O(n) |
 | [Minimum path matrix](https://leetcode.com/problems/minimum-path-sum/) | O(m*n) | O(m*n) |
 | [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | O(n) | O(1) |
+| [Minimum swaps to group all 1s together 2](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | O(n) | O(1) |
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
