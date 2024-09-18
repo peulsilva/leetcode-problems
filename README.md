@@ -61,6 +61,7 @@ My solution to some of leetcode problems
 | [Predict the winner](https://leetcode.com/problems/predict-the-winner/) | O(n^2) | O(n^2) |
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
 | [Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
+| [Stone game II](https://leetcode.com/problems/stone-game-ii/)| - | - |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
 | [Super ugly number](https://leetcode.com/problems/super-ugly-number/) | O(n*p) | O(n + p) |
 | [Target sum ways](https://leetcode.com/problems/target-sum/) | O(2^n) | O(n^2) |
