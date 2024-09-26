@@ -24,6 +24,7 @@ My solution to some of leetcode problems
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Find peak element](https://leetcode.com/problems/find-peak-element/) | O(log n) | O(1) |
 | [Flower planting with no adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | O(VE) | O(E) |
+| [Four sum](https://leetcode.com/problems/4sum) | O(N³) | O(1) |
 | [Gas Station](https://leetcode.com/problems/gas-station/) | O(n) | O(n) |
 | [House Robber](https://leetcode.com/problems/house-robber/)| O(n) | O(1 )|
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)| O(n) | O(1 )|
@@ -34,6 +35,7 @@ My solution to some of leetcode problems
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
+| [Lexicographical numbers](https://leetcode.com/problems/lexicographical-numbers) | O(n) | O(1) |
 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | O(m n) | O(m n)
 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | O(n^2) | O(1) |
@@ -71,3 +73,4 @@ My solution to some of leetcode problems
 | [Ugly number II](https://leetcode.com/problems/ugly-number-ii/) | O(n) | O(1) |
 | [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
+| [Word break](https://leetcode.com/problems/word-break/) | O(n^2 * k) | O(n) |
