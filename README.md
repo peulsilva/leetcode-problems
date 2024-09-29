@@ -11,6 +11,7 @@ My solution to some of leetcode problems
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | O(n) | O(1) |
 | [Best Time to Buy and Sell Stock with cooldown ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | O(n) | O(n) |
+| [Cheapest Flight Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | O(n^2) | O(nk) |
 | [Coin change](https://leetcode.com/problems/coin-change/) | O(k*n) | O(1) |
 | [Coin change 2](https://leetcode.com/problems/coin-change-ii/) | O(k*n) | O(k*n) |
 | [Combination sum](https://leetcode.com/problems/combination-sum/) | O(n²) | O(n) |
@@ -58,6 +59,7 @@ My solution to some of leetcode problems
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
+| [Path sum ii](https://leetcode.com/problems/path-sum-ii/) | O(n) | O(1) |
 | [Perfect Squares](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | O(n^2) | O(n) |
 | [Permutations](https://leetcode.com/problems/permutations/) | --- | O(n) |
 | [Predict the winner](https://leetcode.com/problems/predict-the-winner/) | O(n^2) | O(n^2) |
