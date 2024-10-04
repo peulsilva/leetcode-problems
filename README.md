@@ -21,6 +21,7 @@ My solution to some of leetcode problems
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | O(n) | O(n^2) |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | O(n) | O(n) |
+| [Edit distance](https://leetcode.com/problems/edit-distance) | O(m*n) | O(m*n) |
 | [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
 | [Find peak element](https://leetcode.com/problems/find-peak-element/) | O(log n) | O(1) |
@@ -31,6 +32,7 @@ My solution to some of leetcode problems
 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)| O(n) | O(1 )|
 | [Implement rand10 using rand7](https://leetcode.com/problems/implement-rand10-using-rand7/)| O(1) | O(1 )|
 | [Invert binary tree](https://leetcode.com/problems/invert-binary-tree) | - | - |
+| [Integer break](https://leetcode.com/problems/integer-break/) | O(N²) | O(1) |
 | [Jump game](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
 | [Jump game 2](https://leetcode.com/problems/jump-game-ii/description/) | O(n²) | O(n²) |
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
@@ -73,6 +75,7 @@ My solution to some of leetcode problems
 | [Two city scheduling](https://leetcode.com/problems/two-city-scheduling) | O(n log n) | O(n) |
 | [Two sum](https://leetcode.com/problems/two-sum) | O(n log n) | O(1) |
 | [Ugly number II](https://leetcode.com/problems/ugly-number-ii/) | O(n) | O(1) |
+| [Unique paths II](https://leetcode.com/problems/unique-paths-ii) | O(m*n) | O(m*n) |
 | [Valid parenthesis](https://leetcode.com/problems/valid-parentheses/) | O(n) | O(n) |
 | [Valid sudoku](https://leetcode.com/problems/valid-sudoku) | O(n^2) | O(n^2) |
 | [Word break](https://leetcode.com/problems/word-break/) | O(n^2 * k) | O(n) |
