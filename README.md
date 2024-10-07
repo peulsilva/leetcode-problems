@@ -15,6 +15,7 @@ My solution to some of leetcode problems
 | [Coin change](https://leetcode.com/problems/coin-change/) | O(k*n) | O(1) |
 | [Coin change 2](https://leetcode.com/problems/coin-change-ii/) | O(k*n) | O(k*n) |
 | [Combination sum](https://leetcode.com/problems/combination-sum/) | O(n²) | O(n) |
+| [Combination sum 4](https://leetcode.com/problems/combination-sum-iv/) | O(n*target) | O(n*target) |
 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | O(n) | O(1) |
 | [Consecutive number sum](https://leetcode.com/problems/consecutive-numbers-sum/) | O(sqrt(n)) | O(1) |
 | [Count numbers with unique digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | O(n) | O(n) |
@@ -36,6 +37,7 @@ My solution to some of leetcode problems
 | [Jump game](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
 | [Jump game 2](https://leetcode.com/problems/jump-game-ii/description/) | O(n²) | O(n²) |
 | [Kth largest element in a stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | O(log n) | O(n) |
+| [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | O(n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
 | [Lexicographical numbers](https://leetcode.com/problems/lexicographical-numbers) | O(n) | O(1) |
@@ -58,6 +60,7 @@ My solution to some of leetcode problems
 | [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | O(n) | O(1) |
 | [Minimum swaps to group all 1s together 2](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | O(n) | O(1) |
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
+| [Number of dice rolls with target sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | O(n*k) | O(n*k) |
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
@@ -66,6 +69,7 @@ My solution to some of leetcode problems
 | [Permutations](https://leetcode.com/problems/permutations/) | --- | O(n) |
 | [Predict the winner](https://leetcode.com/problems/predict-the-winner/) | O(n^2) | O(n^2) |
 | [Product of array except self](https://leetcode.com/problems/product-of-array-except-self) | O(n) | O(n) |
+| [Single element on a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | O(log n) | O(1) |
 | [Stone game VII](https://leetcode.com/problems/stone-game-vii/)| - | - |
 | [Stone game II](https://leetcode.com/problems/stone-game-ii/)| - | - |
 | [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) | O(n) | O(n) |
