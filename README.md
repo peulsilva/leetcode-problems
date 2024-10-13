@@ -22,6 +22,7 @@ My solution to some of leetcode problems
 | [Count Primes](https://leetcode.com/problems/count-primes/) | O(n log(log(n))) | O(n) |
 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | O(n) | O(n^2) |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | O(n) | O(n) |
+| [Dungeon game](https://leetcode.com/problems/dungeon-game/) | O(m*n) | O(m*n) |
 | [Edit distance](https://leetcode.com/problems/edit-distance) | O(m*n) | O(m*n) |
 | [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number) | O(n) | O(1) |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | O(log n) | O(1) |
@@ -40,6 +41,7 @@ My solution to some of leetcode problems
 | [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array) | O(n) | O(n) |
 | [Largest palindromic product](https://leetcode.com/problems/largest-palindrome-product/solutions/3281253/479-solution-with-step-by-step-explanation/) | - | - |
 | [Largest substring between two characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/) | O(n) | O(n) |
+| [Largest sum of averages](https://leetcode.com/problems/largest-sum-of-averages/) | O(n²k) | O(nk) |
 | [Lexicographical numbers](https://leetcode.com/problems/lexicographical-numbers) | O(n) | O(1) |
 | [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | O(m n) | O(m n)
 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence) | O(n) | O(n) |
@@ -62,6 +64,7 @@ My solution to some of leetcode problems
 | [Non overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) | O(n log n) | O(1) |
 | [Number of dice rolls with target sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | O(n*k) | O(n*k) |
 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | O(n^2 V) | O(V) |
+| [Ones and zeroes](https://leetcode.com/problems/ones-and-zeroes) | O(2^n) | O(2^n) |
 | [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) | O(n^2) | O(1) |
 | [Partition equal subset sum](https://leetcode.com/problems/partition-equal-subset-sum/) | O(Sn) | O(S) |
 | [Path sum ii](https://leetcode.com/problems/path-sum-ii/) | O(n) | O(1) |
